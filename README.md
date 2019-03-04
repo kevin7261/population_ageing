@@ -2,5 +2,5 @@
 
 The trends of population ageing
 
-Interaction: the Interaction Poster
+Interaction: the Interaction Poster <br/>
 Poster: Export poster on A0 size
